@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//password = root123
+
 
 
 public class DairyApp {
